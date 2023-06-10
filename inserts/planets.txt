@@ -1,0 +1,1 @@
+INSERT INTO s311289.Planet (planet_name) VALUES ('Mercury'),('Venus'),('Earth'),('Mars'),('Jupiter'),('Saturn'),('Uranus'),('Neptune'),('Ceres'),('Pluto'),('Quaoar'),('Sedna'),('Orcus'),('Haumea'),('Eris'),('Makemake'),('Gonggong');
